@@ -1,0 +1,5 @@
+kivy
+firebase-admin
+RPi.GPIO
+scikit-learn
+opencv-python
